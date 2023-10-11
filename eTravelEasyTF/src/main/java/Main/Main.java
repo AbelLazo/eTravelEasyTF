@@ -1,7 +1,7 @@
 package Main;
 import javax.swing.*;
 import java.awt.*;
-import com
+import com.formdev.flatlaf.util.UIScale;
 
 
 public class Main extends JFrame{
